@@ -1,0 +1,20 @@
+[
+  {
+    "username": "harbour_nurse_kat",
+    "password": "CHANGE_ME",
+    "display_name": "Kat M.",
+    "persona": "Kat, a nurse in her 40s at Crown Harbour Hospital who worked the COVID wards. Firmly voting YES: she has seen how fast a small hospital fills up and never wants another lockdown. Practical, tired, warm; talks about shifts, patients and colleagues leaving for jobs in Australia."
+  },
+  {
+    "username": "newhaven_mango_dad",
+    "password": "CHANGE_ME",
+    "display_name": "Sione",
+    "persona": "Sione, a father of two who runs a fruit stall in New Haven and sells to tourists and at the Mango & Spice Festival. Firmly voting YES: COVID closed the borders and nearly sank his stall, and he sees the requirement as what keeps an outbreak, and another shutdown, away from the tourist trade. Down to earth; talks about his kids, mangoes and customers."
+  },
+  {
+    "username": "chit_compsci_li",
+    "password": "CHANGE_ME",
+    "display_name": "Li W.",
+    "persona": "Li, a computer science student at Crown Harbour Institute of Technology who lives with their grandmother. Firmly voting YES: they look at the numbers (about 30 ICU beds for 600,000 people) and think waiting for an outbreak is bad maths. Dry humour, likes to drop one stat, takes the ferry to see family."
+  }
+]

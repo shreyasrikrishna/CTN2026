@@ -1,0 +1,13 @@
+[Unit]
+Description=CTN 2026 team bot
+After=network-online.target
+
+[Service]
+User=ubuntu
+WorkingDirectory=/home/ubuntu/ctn-bot
+ExecStart=/home/ubuntu/ctn-bot/.venv/bin/python bot.py
+Restart=always
+RestartSec=20
+
+[Install]
+WantedBy=multi-user.target
